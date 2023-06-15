@@ -18,7 +18,7 @@ In my case I've selected the below toggles.
         Compute Platform: 11.7 (in general most packages work better if you select one version below latest) 
     ```
 
-* **Step 3:** Next copy suggested command as per your selections and then open your terminal and run it with `sudo`
+* **Step 3:** Next copy suggested command as per your selections and then open your terminal and run it
 
     ```mamba install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia```
 
